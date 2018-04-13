@@ -1,0 +1,5 @@
+E:\vs workspace\c#\软件设计模式\011代理模式\bin\Debug\011代理模式.exe.config
+E:\vs workspace\c#\软件设计模式\011代理模式\bin\Debug\011代理模式.exe
+E:\vs workspace\c#\软件设计模式\011代理模式\bin\Debug\011代理模式.pdb
+E:\vs workspace\c#\软件设计模式\011代理模式\obj\Debug\011代理模式.exe
+E:\vs workspace\c#\软件设计模式\011代理模式\obj\Debug\011代理模式.pdb

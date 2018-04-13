@@ -1,0 +1,5 @@
+E:\vs workspace\c#\软件设计模式\007适配器3\bin\Debug\007适配器3.exe.config
+E:\vs workspace\c#\软件设计模式\007适配器3\bin\Debug\007适配器3.exe
+E:\vs workspace\c#\软件设计模式\007适配器3\bin\Debug\007适配器3.pdb
+E:\vs workspace\c#\软件设计模式\007适配器3\obj\Debug\007适配器3.exe
+E:\vs workspace\c#\软件设计模式\007适配器3\obj\Debug\007适配器3.pdb

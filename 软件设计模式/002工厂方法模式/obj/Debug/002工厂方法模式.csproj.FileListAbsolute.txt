@@ -1,0 +1,5 @@
+E:\vs workspace\c#\软件设计模式\002工厂方法模式\bin\Debug\002工厂方法模式.exe.config
+E:\vs workspace\c#\软件设计模式\002工厂方法模式\bin\Debug\002工厂方法模式.exe
+E:\vs workspace\c#\软件设计模式\002工厂方法模式\bin\Debug\002工厂方法模式.pdb
+E:\vs workspace\c#\软件设计模式\002工厂方法模式\obj\Debug\002工厂方法模式.exe
+E:\vs workspace\c#\软件设计模式\002工厂方法模式\obj\Debug\002工厂方法模式.pdb

@@ -1,0 +1,6 @@
+E:\vs workspace\c#\软件设计模式\004建造者模式\bin\Debug\004建造者模式.exe.config
+E:\vs workspace\c#\软件设计模式\004建造者模式\obj\Debug\004建造者模式.csprojResolveAssemblyReference.cache
+E:\vs workspace\c#\软件设计模式\004建造者模式\bin\Debug\004建造者模式.exe
+E:\vs workspace\c#\软件设计模式\004建造者模式\bin\Debug\004建造者模式.pdb
+E:\vs workspace\c#\软件设计模式\004建造者模式\obj\Debug\004建造者模式.exe
+E:\vs workspace\c#\软件设计模式\004建造者模式\obj\Debug\004建造者模式.pdb
